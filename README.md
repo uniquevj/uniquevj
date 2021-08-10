@@ -1,6 +1,6 @@
 ![header](https://user-images.githubusercontent.com/88722739/128886071-8c5cce86-13d3-456b-ae9f-82b323c19ee3.png)
 
-Hi , My name is Vineet and I am passionate about technologies and love to learn new things.
+Hi , My name is Vineet and I am passionate about technologies and love to learn new things . I am currently persuing Computer Science Engineering and currently working in the field of Machine Learning , App development and IOT.
 - 👋 Hi, I’m @uniquevj
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
